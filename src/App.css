@@ -1,0 +1,4 @@
+.flexx {
+  display: flex;
+  justify-content: space-around;
+}

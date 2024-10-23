@@ -1,0 +1,13 @@
+.togglee {
+  display: flex;
+}
+
+.activee {
+  background-color: blue;
+  color: white;
+}
+
+.btnn {
+  padding: 15px;
+  cursor: pointer;
+}

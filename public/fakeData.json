@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Earbuds",
+    "image": "https://i.ibb.co.com/cJhBm1r/Gemini-Generated-Image-eve7q8eve7q8eve7.jpg",
+    "description": "High-quality wireless earbuds with great sound.",
+    "price": 79.99,
+    "category": "Electronics",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "name": "Leather Wallet",
+    "image": "https://i.ibb.co.com/YWqdR4b/Gemini-Generated-Image-xlytbxxlytbxxlyt.jpg",
+    "description": "Stylish leather wallet with multiple card slots.",
+    "price": 29.99,
+    "category": "Fashion",
+    "isFeatured": false
+  },
+  {
+    "id": 3,
+    "name": "Blender",
+    "image": "https://i.ibb.co.com/gjpKFdT/Gemini-Generated-Image-h357pzh357pzh357.jpg",
+    "description": "Powerful blender for smoothies and more.",
+    "price": 45.0,
+    "category": "Home Appliances",
+    "isFeatured": true
+  },
+  {
+    "id": 4,
+    "name": "Smartwatch",
+    "image": "https://i.ibb.co.com/Dkt6ypN/Gemini-Generated-Image-5s0yaz5s0yaz5s0y.jpg",
+    "description": "Fitness tracker and smartwatch with advanced features.",
+    "price": 149.99,
+    "category": "Electronics",
+    "isFeatured": true
+  },
+  {
+    "id": 5,
+    "name": "Coffee Maker",
+    "image": "https://i.ibb.co.com/VMPNhnz/Gemini-Generated-Image-38lns938lns938ln.jpg",
+    "description": "High-quality coffee maker with multiple brewing options.",
+    "price": 89.99,
+    "category": "Home Appliances",
+    "isFeatured": false
+  },
+  {
+    "id": 6,
+    "name": "Laptop Backpack",
+    "image": "https://i.ibb.co.com/XzH9Xx5/Gemini-Generated-Image-bk5j6jbk5j6jbk5j.jpg",
+    "description": "Durable laptop backpack with multiple compartments.",
+    "price": 39.99,
+    "category": "Bags",
+    "isFeatured": true
+  },
+  {
+    "id": 7,
+    "name": "Wireless Headphones",
+    "image": "https://i.ibb.co.com/YpzmGQs/Gemini-Generated-Image-pbxp26pbxp26pbxp.jpg",
+    "description": "Comfortable wireless headphones with noise cancellation.",
+    "price": 129.99,
+    "category": "Electronics",
+    "isFeatured": false
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses",
+    "image": "https://i.ibb.co.com/zPPrDYK/Gemini-Generated-Image-1qaktc1qaktc1qak.jpg",
+    "description": "Stylish sunglasses with UV protection.",
+    "price": 24.99,
+    "category": "Fashion",
+    "isFeatured": true
+  },
+  {
+    "id": 9,
+    "name": "Gaming Keyboard",
+    "image": "https://i.ibb.co.com/pWhPxv3/Gemini-Generated-Image-xa4y7txa4y7txa4y.jpg",
+    "description": "Mechanical gaming keyboard with RGB lighting.",
+    "price": 79.99,
+    "category": "Electronics",
+    "isFeatured": true
+  },
+  {
+    "id": 10,
+    "name": "Portable Charger",
+    "image": "https://i.ibb.co.com/HB09NTJ/Gemini-Generated-Image-kzrst9kzrst9kzrs.jpg",
+    "description": "Powerful portable charger for your devices.",
+    "price": 29.99,
+    "category": "Electronics",
+    "isFeatured": false
+  }
+]

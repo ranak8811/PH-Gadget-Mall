@@ -1,0 +1,21 @@
+.cardd {
+  width: 300px;
+  border: 1px solid gray;
+  text-align: center;
+  margin: 3px;
+  box-shadow: 4px 4px 8px gray;
+  border-radius: 20px;
+}
+
+.img {
+  width: 100%;
+}
+
+.cardd button {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.selected-img {
+  width: 150px;
+}
